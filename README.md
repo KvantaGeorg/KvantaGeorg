@@ -1,4 +1,4 @@
-# Hey, I'm GEORG 👋
+# Hey, I'm GEORG 🔮
 
 Builder, creative, operator.  
 19 y/o from Belarus, based in Vilnius.  
@@ -11,21 +11,21 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
 ## 🚀 What I do
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Arduino%20%2F%20Hardware-00979D?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vibe%20Coding-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend%20Systems-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Embedded%20%26%20Hardware-00979D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prototyping%20%26%20Vibe%20Coding-111111?style=for-the-badge">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Business%20Ops-FF6F00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Product%20Thinking-6A1B9A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Business%20Operations%20%26%20Execution-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Product%20Strategy%20%26%20Thinking-6A1B9A?style=for-the-badge">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Music-E91E63?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Content-00C853?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Policy-546E7A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Civic%20Tech-00897B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Music%20Production%20%26%20Sound-E91E63?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Content%20%26%20Visual%20Storytelling-00C853?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20Policy%20%26%20Research-546E7A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Civic%20Tech%20%26%20Impact-00897B?style=for-the-badge">
 </p>
 
 ---
@@ -50,7 +50,9 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
   <img src="https://img.shields.io/badge/Rebookify-Business%20Ops-0A66C2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Araminta-Berlin%20%28Summer%29-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/KVNT-Creative%20Studio-E91E63?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Startup-Building-111111?style=for-the-badge">
 </p>
+
 
 ---
 
