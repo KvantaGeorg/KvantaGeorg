@@ -17,7 +17,6 @@ Currently exploring the intersection of:
 
 - Business Operations at Rebookify
 - Building data and AI projects
-- Developing KVNT
 - Exploring product, startups, and applied AI
 
 <br>
