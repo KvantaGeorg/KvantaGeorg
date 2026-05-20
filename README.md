@@ -24,22 +24,6 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
   <img src="https://img.shields.io/badge/Civic%20Tech%20%26%20Impact-00897B?style=for-the-badge"> 
 </p>
 
----
-
-## 📊 By the numbers
-
-<p>
-  <img src="https://img.shields.io/badge/7%2B-Roles%20%26%20Projects-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/23-Episodes-purple?style=for-the-badge">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/200%2B-Participants-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/3K%2B-Reach-green?style=for-the-badge">
-</p>
-
----
-
 ## 🧭 Current focus
 
 <p>
