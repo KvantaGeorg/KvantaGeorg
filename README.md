@@ -1,4 +1,4 @@
-# Hey, I'm GEORG
+# Hey, I'm Georg
 
 Builder, creative, operator.  
 19 y/o from Belarus, based in Vilnius.  
