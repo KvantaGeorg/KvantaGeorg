@@ -1,10 +1,10 @@
-# Hey, I'm GEORG 🔮
+# Hey, I'm GEORG
 
 Builder, creative, operator.  
 19 y/o from Belarus, based in Vilnius.  
 Next stops: Berlin, Stockholm, then wherever things get interesting.
 
-> *"Believe."* — Ted Lasso
+> *"Believe"* - Ted Lasso
 
 ---
 
@@ -45,9 +45,8 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
 
 <p>
   <img src="https://img.shields.io/badge/Rebookify-Business%20Ops-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Araminta-Berlin%20%28Summer%29-FF6F00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/KVNT-Creative%20Studio-E91E63?style=for-the-badge">
   <img src="https://img.shields.io/badge/Startup-Building-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/KVNT-Creative%20Studio-E91E63?style=for-the-badge">
 </p>
 
 
