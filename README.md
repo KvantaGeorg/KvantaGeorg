@@ -21,7 +21,6 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
   <img src="https://img.shields.io/badge/Content%20%26%20Visual%20Storytelling-00C853?style=for-the-badge">
 <p>
   <img src="https://img.shields.io/badge/Backend%20Systems-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Embedded%20%26%20Hardware-00979D?style=for-the-badge">
   <img src="https://img.shields.io/badge/Civic%20Tech%20%26%20Impact-00897B?style=for-the-badge"> 
 </p>
 
