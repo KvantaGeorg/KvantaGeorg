@@ -8,7 +8,7 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
 
 ---
 
-## 🚀 What I do
+## What I do
 
 <p>
   <img src="https://img.shields.io/badge/Business%20Operations%20%26%20Execution-FF6F00?style=for-the-badge">
@@ -24,7 +24,7 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
   <img src="https://img.shields.io/badge/Civic%20Tech%20%26%20Impact-00897B?style=for-the-badge"> 
 </p>
 
-## 🧭 Current focus
+## Current focus
 
 <p>
   <img src="https://img.shields.io/badge/Rebookify-Business%20Ops-0A66C2?style=for-the-badge">
@@ -35,7 +35,7 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
 
 ---
 
-## 🧰 Tech
+## Tech
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
