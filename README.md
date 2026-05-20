@@ -1,4 +1,4 @@
-# Hey, I'm Georg
+# Heeeeeey, I'm Georg
 
 Builder, operator, creative technologist.  
 Based in Vilnius, originally from Belarus.
@@ -11,7 +11,7 @@ Currently exploring the intersection of:
 
 > *"Believe"* — Ted Lasso
 
----
+<br>
 
 ## Current Focus
 
@@ -20,7 +20,7 @@ Currently exploring the intersection of:
 - Developing KVNT
 - Exploring product, startups, and applied AI
 
----
+<br>
 
 ## Selected Technologies
 
@@ -37,7 +37,6 @@ Currently exploring the intersection of:
   <img src="https://img.shields.io/badge/Creative%20Technology-111111?style=for-the-badge">
 </p>
 
----
 
 <p>
   <a href="https://www.linkedin.com/in/georgkvantaliani">
