@@ -51,20 +51,6 @@ Next stops: Berlin, Stockholm, then wherever things get interesting.
 </p>
 
 ---
-
-## 🌍 Outside of work
-
-<p>
-  <img src="https://img.shields.io/badge/Music-GEORG-E91E63?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visual%20Diary-nobody%20knows%20yet-6A1B9A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Travel-Cities-00897B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ted%20Lasso-Rewatching-111111?style=for-the-badge">
-</p>
-
----
-
-## 🔗 Find me
-
 <p>
   <a href="https://www.linkedin.com/in/georgkvantaliani">
     <img src="https://img.shields.io/badge/LinkedIn-Georg%20Kvantaliani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
