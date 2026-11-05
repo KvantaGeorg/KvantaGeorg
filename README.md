@@ -13,12 +13,6 @@ Currently exploring the intersection of:
 
 <br>
 
-## Current Focus
-
-- Business Operations at Rebookify
-- Building data and AI projects
-- Exploring product, startups, and applied AI
-
 <br>
 
 ## Selected Technologies
