@@ -1,5 +1,9 @@
 # Heeeeeey, I'm Georg
 
+<a href="https://github.com/KvantaGeorg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&vCenter=true&width=520&lines=building+whatever+looks+fun;vibecoding+at+2am;turning+data+into+bad+jokes;hackathon+mode%3A+on;git+commit+-m+%22believe%22" alt="Typing SVG">
+</a>
+
 Based in LT. I build whatever looks fun.
 
 Data and AI are my favorite toys, and I can't take anything too seriously, so there's usually a joke somewhere in the code.
