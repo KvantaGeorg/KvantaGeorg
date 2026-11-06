@@ -1,9 +1,10 @@
 # Heeeeeey, I'm Georg
 
-I build whatever looks fun.  
-I love data, AI and a good joke, ideally all three at once.
+Based in LT. I build whatever looks fun.
 
-Vilnius, originally from Belarus.
+Data and AI are my favorite toys, and I can't take anything too seriously, so there's usually a joke somewhere in the code.
+
+These days I'm vibecoding side projects, showing up to hackathons, poking around cybersecurity and nerding out on how startups and venture money actually work.
 
 <p align="left">
   <img src="https://media.giphy.com/media/IazdAV1zjaGbBaGPgF/giphy.gif" width="420" alt="Ted Lasso slapping the Believe sign">
@@ -13,9 +14,24 @@ Vilnius, originally from Belarus.
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude&logoColor=white">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-111111?style=for-the-badge">
   <img src="https://img.shields.io/badge/Data-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Vibecoding-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hackathons-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Startups-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Venture-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Game%20Theory-111111?style=for-the-badge">
 </p>
 
 <p>
