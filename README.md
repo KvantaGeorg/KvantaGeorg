@@ -1,35 +1,22 @@
 # Heeeeeey, I'm Georg
 
-Builder, operator, creative technologist.  
-Based in Vilnius, originally from Belarus.
+I build whatever looks fun.  
+I love data, AI and a good joke, ideally all three at once.
 
-Currently exploring the intersection of:
-- AI and data
-- startups and product thinking
-- systems and execution
-- creativity and digital experiences
+Vilnius, originally from Belarus.
 
-> *"Believe"* — Ted Lasso
+<p align="left">
+  <img src="https://media.giphy.com/media/IazdAV1zjaGbBaGPgF/giphy.gif" width="420" alt="Ted Lasso slapping the Believe sign">
+</p>
 
-<br>
-
-<br>
-
-## Selected Technologies
+## Stuff I play with
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/AI%20%26%20ML-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data%20Analytics-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data-111111?style=for-the-badge">
   <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white">
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Product%20Thinking-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Business%20Operations-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Creative%20Technology-111111?style=for-the-badge">
-</p>
-
 
 <p>
   <a href="https://www.linkedin.com/in/georgkvantaliani">
